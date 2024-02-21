@@ -25,7 +25,9 @@ python submission.py
 5. Then I passed the summarized data to openai api with the subquery to generate a small report using the summarized data and query.
 6. Collected such small reports to answer the large user query with multiple subquestions.
 
+## Report file
 
+new_report.docx is contains the automatically generated content from the python script submission.py you can refer the ipynb file to know about the development environment.
 ## Contact
 
 [Pranav Chougule](chougulepranav@yahoo.com)
