@@ -1,0 +1,7 @@
+duckduckgo-search
+openai==0.28 
+beautifulsoup4 
+cohere 
+tiktoken 
+langchain 
+torch
